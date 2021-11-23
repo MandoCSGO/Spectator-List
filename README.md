@@ -1,5 +1,5 @@
-# Spectator List for CS:GO
-A plugin that lists all spectators when alive using ShowHudText.
+# Spectator List for HNS
+A sourcemod plugin for CS:GO that lists all spectators when alive using ShowHudText.
 
 This is an edited version of GoD-Tony's spectator list plugin that used PrintHintText. This version uses ShowHudText to prevent the spectator list from overriding the jumpstats menu in HNS.
 
