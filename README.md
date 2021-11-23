@@ -3,6 +3,8 @@ A sourcemod plugin for CS:GO that lists all spectators when alive using ShowHudT
 
 This is an edited version of GoD-Tony's spectator list plugin that used PrintHintText. This version uses ShowHudText to prevent the spectator list from overriding the jumpstats menu in HNS.
 
+To change the settings for this plugin, edit speclist.cfg in your /cfg/sourcemod directory.
+
 # ConVars
 sm_speclist_x - Sets the x-coordinate value for the spectator list.
 
